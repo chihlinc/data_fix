@@ -20,7 +20,9 @@ To address this issue, we have developed a methodology outlined in the correctio
 2. Navigate to the repository directory.
 3. Run the `fix_data.py` script to execute the correction process.
 4. Verify the correctness of the fixed `epimetric_latest.csv` file or use it directly in your database.
-5. Process data manipulation using python, jupyter notebook and SQL on docker. 
+5. Process data manipulation using python, jupyter notebook and SQL on docker.
+
+## Logic follow: 
 
 ## Requirements
 - Python 3.x
