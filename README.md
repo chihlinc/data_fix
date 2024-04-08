@@ -23,7 +23,7 @@ To address this issue, we have developed a methodology outlined in the correctio
 5. Process data manipulation using python, jupyter notebook and SQL on docker.
 
 ## Logic follow: 
-![Screenshot](https://github.com/chihlinc/data_fix/blob/main/Screenshot%202024-04-08%20at%204.32.10%20PM.png)
+![Screenshot](https://github.com/chihlinc/data_fix/blob/main/Screenshot%202024-04-08%20at%205.26.37%20PM.png)
 ## Requirements
 - Python 3.x
 - pandas library
