@@ -43,8 +43,7 @@ To address this issue, we have developed a methodology outlined in the correctio
     docker exec -it delphi_db mysql --user=foo --password=bar
 
 ## Identify the outdated data from epimetric_latest:
-    Using SQL to indentify the outdated data from epimetric_latest and generate the SQL named after get_outdate_from_el.sql. 
-
+Using SQL to indentify the outdated data from epimetric_latest and generate the SQL named after get_outdate_from_el.sql. 
 
 
 
