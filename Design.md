@@ -1,4 +1,4 @@
-Business Overview
+## Business Overview
 Requirement Description in One Sentence:
 Develop a solution to ensure accurate and up-to-date COVIDcast data by identifying and correcting discrepancies between the epimetric_latest and epidata_full tables.
 
