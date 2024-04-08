@@ -25,6 +25,7 @@ Ensure accuracy and consistency between epimetric_latest and epidata_full tables
 ### Solution Detail
 Detail Explanation of Solution:
 I follow this logic to conduct the codes and logic. (Data transformation logic Diagram)
+![Image Description](https://github.com/chihlinc/data_fix/raw/main/Screenshot%202024-04-08%20at%204.14.09%20PM.png)
 1.Identify offending entries in epimetric_latest table. 
 2.Retrieve actual latest values from epidata_full table.
 3. Update epimetric_latest table with the latest values.
