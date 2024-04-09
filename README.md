@@ -22,7 +22,7 @@ To address this issue, we have developed a methodology outlined in the correctio
 4. Verify the correctness of the fixed `epimetric_latest.csv` file or use it directly in your database.
 5. Process data manipulation using python, jupyter notebook and SQL on docker.
 
-## Logic follow: 
+## Data flow diagram: 
 ![Screenshot](https://github.com/chihlinc/data_fix/blob/main/Screenshot%202024-04-08%20at%205.26.37%20PM.png)
 ## Requirements
 - Python 3.x
